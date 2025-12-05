@@ -9,10 +9,9 @@
 ---
 
 ## 🔥 About Me  
-🌙 Python öğreniyorum  
-💡 Teknoloji ve yazılımı seviyorum  
-✨ Hayallerimin peşinden gidiyorum
-
+🌙 I'm learning Python.
+💡 I love technology and software.
+✨ I'm chasing my dreams.
 ---
 
 ## ⚡ Skills & Tools  
